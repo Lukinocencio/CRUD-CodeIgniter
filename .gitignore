@@ -1,0 +1,11 @@
+# CodeIgniter
+application/logs/*
+!application/logs/index.html
+application/cache/*
+!application/cache/index.html
+!application/cache/.htaccess
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
